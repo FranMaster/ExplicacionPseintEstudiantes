@@ -1,0 +1,10 @@
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\bin\Debug\EJEMPLO.exe.config
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\bin\Debug\EJEMPLO.exe
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\bin\Debug\EJEMPLO.pdb
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\obj\Debug\EJEMPLO.csprojAssemblyReference.cache
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\obj\Debug\EJEMPLO.Form1.resources
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\obj\Debug\EJEMPLO.Properties.Resources.resources
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\obj\Debug\EJEMPLO.csproj.GenerateResource.cache
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\obj\Debug\EJEMPLO.csproj.CoreCompileInputs.cache
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\obj\Debug\EJEMPLO.exe
+C:\Users\B049389\source\repos\AltasBajasModificacion\EJEMPLO\obj\Debug\EJEMPLO.pdb
